@@ -18,6 +18,15 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Frog_Population.h" />
+    <ClInclude Include="GlobalData.h" />
+    <ClInclude Include="SFLA_Parameters.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Frog_Population.cpp" />
+    <ClCompile Include="SFLA_Parameters.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
